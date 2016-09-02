@@ -4,6 +4,10 @@ Mystery Gate Solver
 Author: Sonal Pinto
 Source Code submitted towards CS5234 Term Project
 
+Given a gate-level netlist with Mystery Gates (unkowns), and a simulation trace, the goal of the project is to find all possible solutions in terms of gates, that would match the hardware specification of the Mystery Gates (IO width), and completely satisfy the given simulation trace.
+
+keywords: Reverse Engineering, Electronic Design Automation, gate-level obfuscation
+
 
 BUILD
 ==========
